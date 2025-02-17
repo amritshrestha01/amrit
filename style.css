@@ -384,4 +384,10 @@ nav {
     .about-details {
         text-align: center;
     }
+       .hero-image{
+        display: none;
+    }
+    .about-image{
+        display: none;
+    }
 }
